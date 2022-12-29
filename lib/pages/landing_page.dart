@@ -12,7 +12,7 @@ class LandingPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             const Text(
-              "Let the click begin \nwith our ",
+              "Let the click begin. \nwith our ",
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 40.0,
